@@ -1,0 +1,11 @@
+{
+    "name": "Steam Charts - Top Games Current Players",
+    "version": "1.0.0",
+    "description": "latest number of players currently on Top 3 Steam Games",
+    "manifest_version": 3,
+    "author": "EL",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Steam Charts"
+    }
+}
