@@ -1,0 +1,18 @@
+h2 {
+    font-size: 12px;
+    font-weight: bold;
+
+}
+
+.table thead th {
+    background: purple;
+    color: white;
+}
+
+.table td,
+.table th,
+.table tr {
+    padding: 5px 10px;
+    font-size: 10px;
+}
+
